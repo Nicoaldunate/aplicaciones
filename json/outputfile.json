@@ -20,7 +20,7 @@
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0003.gif",
     "id": "0003",
-    "name": "air bike",
+    "name": "bicleta de aire",
     "target": "abdominales"
   },
   {
@@ -7468,16 +7468,8 @@
     "equipment": "leverage machine",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3200.gif",
     "id": "3200",
-    "name": "lever bent-over row with v-bar ",
+    "name": "Remo inclinado con barra V ",
     "target": "espalda"
-  },
-  {
-    "bodyPart": "brazo",
-    "equipment": "leverage machine",
-    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0575.gif",
-    "id": "0575",
-    "name": "lever bicep curl",
-    "target": "biceps"
   },
   {
     "bodyPart": "pierna inferiors",
