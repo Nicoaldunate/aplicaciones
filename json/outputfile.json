@@ -63,7 +63,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3293.gif",
     "id": "3293",
-    "name": "archer pull up",
+    "name": "Dominadas arquero",
     "target": "dorsales"
   },
   {
@@ -71,7 +71,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3294.gif",
     "id": "3294",
-    "name": "archer push up",
+    "name": "Flexiones de arquero",
     "target": "pectorales"
   },
   {
@@ -79,7 +79,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2355.gif",
     "id": "2355",
-    "name": "arm slingers hanging bent knee legs",
+    "name": "Flexion de piernas al pecho colgado de un arco",
     "target": "abdominales"
   },
   {
@@ -87,7 +87,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2333.gif",
     "id": "2333",
-    "name": "arm slingers hanging straight legs",
+    "name": "Flexion de piernas en V colgado de un arco",
     "target": "abdominales"
   },
   {
@@ -95,7 +95,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3214.gif",
     "id": "3214",
-    "name": "arms apart circular toe touch (male)",
+    "name": "elongacion semicircular (masculina)",
     "target": "gluteos"
   },
   {
@@ -103,15 +103,15 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3204.gif",
     "id": "3204",
-    "name": "arms overhead full sit-up (male)",
+    "name": "abdominal con piernas rectas (masculina)",
     "target": "abdominales"
   },
   {
     "bodyPart": "pecho",
-    "equipment": "leverage machine",
+    "equipment": "leverage maquina",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0009.gif",
     "id": "0009",
-    "name": "dip asistido (kneeling)",
+    "name": "Fondo asistido (arodillado)",
     "target": "pectorales"
   },
   {
@@ -127,7 +127,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0010.gif",
     "id": "0010",
-    "name": "asistido hanging knee raise with throw down",
+    "name": "asistido mantener rodillas elevadas suspendido de un arco",
     "target": "abdominales"
   },
   {
@@ -135,7 +135,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1708.gif",
     "id": "1708",
-    "name": "asistido lying pantorrillas stretch",
+    "name": "asistido flexion de pies para estirar pantorillas",
     "target": "pantorrillas"
   },
   {
@@ -143,7 +143,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1709.gif",
     "id": "1709",
-    "name": "asistido lying gluteos stretch",
+    "name": "asistido estiramiento de gluteos acostado",
     "target": "gluteos"
   },
   {
@@ -151,7 +151,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1710.gif",
     "id": "1710",
-    "name": "asistido lying gluteus and piriformis stretch",
+    "name": "asistido estiramiento de gluteos periforme",
     "target": "gluteos"
   },
   {
@@ -159,7 +159,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0012.gif",
     "id": "0012",
-    "name": "asistido lying leg raise with lateral throw down",
+    "name": "asistido elevacion de pierna acostado con lanzamiento lateral hacia abajo",
     "target": "abdominales"
   },
   {
@@ -167,23 +167,23 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0013.gif",
     "id": "0013",
-    "name": "asistido lying leg raise with throw down",
+    "name": "asistido elevacion de pierna tumbado con tiro hacia abajo",
     "target": "abdominales"
   },
   {
     "bodyPart": "cintura",
-    "equipment": "medicine ball",
+    "equipment": "balon medicinal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0014.gif",
     "id": "0014",
-    "name": "asistido motion russian twist",
+    "name": "asistido movimiento giro ruso",
     "target": "abdominales"
   },
   {
     "bodyPart": "espalda",
-    "equipment": "leverage machine",
+    "equipment": "leverage maquina",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0015.gif",
     "id": "0015",
-    "name": "asistido parallel close grip pull-up",
+    "name": "asistido dominadas paralelas con agarre cerrado",
     "target": "dorsales"
   },
   {
@@ -191,7 +191,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0016.gif",
     "id": "0016",
-    "name": "asistido prone hamstring",
+    "name": "asistido flexionar rodilla para estirar musculo isquiobiales",
     "target": "isquiotibiales"
   },
   {
@@ -199,7 +199,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1713.gif",
     "id": "1713",
-    "name": "asistido prone lying cuadriceps stretch",
+    "name": "asistido estiramiento de cuadriceps",
     "target": "cuadriceps"
   },
   {
@@ -207,15 +207,15 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1714.gif",
     "id": "1714",
-    "name": "asistido prone rectus femoris stretch",
+    "name": "asistido estiramiento del recto femoral",
     "target": "abdominales"
   },
   {
     "bodyPart": "espalda",
-    "equipment": "leverage machine",
+    "equipment": "leverage maquina",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0017.gif",
     "id": "0017",
-    "name": "asistido pull-up",
+    "name": "asistido levantar",
     "target": "dorsales"
   },
   {
@@ -223,7 +223,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1716.gif",
     "id": "1716",
-    "name": "asistido seated pectoralis major stretch with stability ball",
+    "name": "asistido estiramiento del pectoral mayor sentado con pelota de estabilidad",
     "target": "pectorales"
   },
   {
@@ -231,7 +231,7 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1712.gif",
     "id": "1712",
-    "name": "asistido side lying adductor stretch",
+    "name": "asistido estiramiento de aductores en decubito lateral",
     "target": "aductores"
   },
   {
@@ -239,23 +239,23 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1758.gif",
     "id": "1758",
-    "name": "asistido sit-up",
+    "name": "asistido abdominales",
     "target": "abdominales"
   },
   {
     "bodyPart": "espalda",
-    "equipment": "leverage machine",
+    "equipment": "leverage maquina",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1431.gif",
     "id": "1431",
-    "name": "asistido standing chin-up",
+    "name": "asistido barbilla de pie",
     "target": "dorsales"
   },
   {
     "bodyPart": "espalda",
-    "equipment": "leverage machine",
+    "equipment": "leverage maquina",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1432.gif",
     "id": "1432",
-    "name": "asistido standing pull-up",
+    "name": "asistido dominadas de pie",
     "target": "dorsales"
   },
   {
@@ -263,23 +263,23 @@ import React from
     "equipment": "asistido",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0018.gif",
     "id": "0018",
-    "name": "asistido standing triceps extension (with towel)",
+    "name": "asistido extension de triceps de pie (con palanca)",
     "target": "triceps"
   },
   {
     "bodyPart": "brazo",
-    "equipment": "leverage machine",
+    "equipment": "leverage maquina",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0019.gif",
     "id": "0019",
-    "name": "asistido triceps dip (kneeling)",
+    "name": "asistido fondos de triceps (de rodillas)",
     "target": "triceps"
   },
   {
     "bodyPart": "pecho",
-    "equipment": "leverage machine",
+    "equipment": "leverage maquina",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2364.gif",
     "id": "2364",
-    "name": "asistido wide-grip pecho dip (kneeling)",
+    "name": "asistido dip de pecho con agarre ancho (de rodillas)",
     "target": "pectorales"
   },
   {
@@ -287,7 +287,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3220.gif",
     "id": "3220",
-    "name": "astride jumps (male)",
+    "name": "saltos a horcajadas (masculino)",
     "target": "sistema cardiovascular"
   },
   {
@@ -295,15 +295,15 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3672.gif",
     "id": "3672",
-    "name": "espalda and forth step",
+    "name": "espalda y paso adelante",
     "target": "sistema cardiovascular"
   },
   {
     "bodyPart": "espalda",
-    "equipment": "stability ball",
+    "equipment": "pelota de estabilidad",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1314.gif",
     "id": "1314",
-    "name": "espalda extension on exercise ball",
+    "name": "espalda extension en bola de ejercicio",
     "target": "espalda"
   },
   {
@@ -311,7 +311,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3297.gif",
     "id": "3297",
-    "name": "espalda lever",
+    "name": "palanca trasera",
     "target": "espalda"
   },
   {
@@ -319,7 +319,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1405.gif",
     "id": "1405",
-    "name": "espalda pec stretch",
+    "name": "espalda estiramiento de pectorales",
     "target": "dorsales"
   },
   {
@@ -327,7 +327,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1473.gif",
     "id": "1473",
-    "name": "espaldaward jump",
+    "name": "espalda salto hacia atras",
     "target": "cuadriceps"
   },
   {
@@ -335,7 +335,7 @@ import React from
     "equipment": "peso corporal",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0020.gif",
     "id": "0020",
-    "name": "balance board",
+    "name": "tabla de equilibrio",
     "target": "cuadriceps"
   },
   {
@@ -343,7 +343,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0968.gif",
     "id": "0968",
-    "name": "elastico alternating biceps curl",
+    "name": "elastico curl de biceps alterno",
     "target": "biceps"
   },
   {
@@ -351,7 +351,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0969.gif",
     "id": "0969",
-    "name": "elastico alternating v-up",
+    "name": "elastico v-up alterno",
     "target": "abdominales"
   },
   {
@@ -359,7 +359,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0970.gif",
     "id": "0970",
-    "name": "elastico asistido pull-up",
+    "name": "elastico asistido levantar",
     "target": "dorsales"
   },
   {
@@ -367,7 +367,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0971.gif",
     "id": "0971",
-    "name": "elastico asistido wheel rollerout",
+    "name": "elastico asistido rodadura de la rueda",
     "target": "abdominales"
   },
   {
@@ -375,7 +375,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1254.gif",
     "id": "1254",
-    "name": "elastico bench press",
+    "name": "elastico prensa de banco",
     "target": "pectorales"
   },
   {
