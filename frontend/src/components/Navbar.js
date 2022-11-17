@@ -54,6 +54,11 @@ const Navbar = () => {
         >
           Ejercicios
         </a>
+        <Link
+          to="/crear-rutina"
+          style={{ textDecoration: "none", color: "#3A1212" }}
+        >Create tu rutina
+        </Link>
       </Stack>
     </Stack>
   );
