@@ -383,7 +383,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0980.gif",
     "id": "0980",
-    "name": "elastico bent-over hip extension",
+    "name": "elastico extension de cadera inclinada",
     "target": "gluteos"
   },
   {
@@ -391,7 +391,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0972.gif",
     "id": "0972",
-    "name": "elastico bicycle crunch",
+    "name": "elastico crujido de bicicleta",
     "target": "abdominales"
   },
   {
@@ -399,7 +399,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0974.gif",
     "id": "0974",
-    "name": "elastico close-grip pulldown",
+    "name": "elastico jalon con agarre cerrado",
     "target": "dorsales"
   },
   {
@@ -407,7 +407,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0975.gif",
     "id": "0975",
-    "name": "elastico close-grip push-up",
+    "name": "flexiones elastico con agarre cerrado",
     "target": "triceps"
   },
   {
@@ -415,7 +415,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0976.gif",
     "id": "0976",
-    "name": "elastico concentration curl",
+    "name": "elastico concentracion curl",
     "target": "biceps"
   },
   {
@@ -423,7 +423,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3117.gif",
     "id": "3117",
-    "name": "elastico fixed espalda close grip pulldown",
+    "name": "elastico jalon de agarre cerrado de espalda fija",
     "target": "dorsales"
   },
   {
@@ -431,7 +431,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3116.gif",
     "id": "3116",
-    "name": "elastico fixed espalda underhand pulldown",
+    "name": "elastico espalda fija pulldown bajo la mano",
     "target": "dorsales"
   },
   {
@@ -439,7 +439,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0977.gif",
     "id": "0977",
-    "name": "elastico front lateral raise",
+    "name": "elastico elevacion frontal lateral",
     "target": "deltoide"
   },
   {
@@ -447,7 +447,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0978.gif",
     "id": "0978",
-    "name": "elastico front raise",
+    "name": "elastico levantamiento frontal",
     "target": "deltoide"
   },
   {
@@ -455,7 +455,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1408.gif",
     "id": "1408",
-    "name": "elastico hip lift",
+    "name": "elastico levantamiento de cadera",
     "target": "gluteos"
   },
   {
@@ -471,7 +471,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0981.gif",
     "id": "0981",
-    "name": "elastico jack knife sit-up",
+    "name": "elastico abdominales sentado",
     "target": "abdominales"
   },
   {
@@ -479,7 +479,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0983.gif",
     "id": "0983",
-    "name": "elastico kneeling one arm pulldown",
+    "name": "elastico arrodillado un brazo estirar(masculino)",
     "target": "dorsales"
   },
   {
@@ -487,7 +487,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0985.gif",
     "id": "0985",
-    "name": "elastico kneeling twisting crunch",
+    "name": "elastico crujido con torsion de rodillas",
     "target": "abdominales"
   },
   {
@@ -495,7 +495,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0984.gif",
     "id": "0984",
-    "name": "elastico lying hip internal rotation",
+    "name": "elastico rotacion interna de la cadera acostado",
     "target": "gluteos"
   },
   {
@@ -503,7 +503,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1002.gif",
     "id": "1002",
-    "name": "elastico lying straight leg raise",
+    "name": "elastico elevacion de pierna estirada acostado",
     "target": "abdominales"
   },
   {
@@ -511,7 +511,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0986.gif",
     "id": "0986",
-    "name": "elastico one arm overhead biceps curl",
+    "name": "elastico Curl de biceps con un brazo por encima de la cabeza",
     "target": "biceps"
   },
   {
@@ -519,7 +519,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0987.gif",
     "id": "0987",
-    "name": "elastico one arm single leg split squat",
+    "name": "elastico sentadilla dividida con una sola pierna y un brazo",
     "target": "cuadriceps"
   },
   {
@@ -527,7 +527,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0988.gif",
     "id": "0988",
-    "name": "elastico one arm standing low row",
+    "name": "elastico fila baja con un brazo de pie",
     "target": "espalda"
   },
   {
@@ -535,7 +535,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0989.gif",
     "id": "0989",
-    "name": "elastico one arm twisting pecho press",
+    "name": "elastico prensa de pecho torciendo un brazo",
     "target": "pectorales"
   },
   {
@@ -543,7 +543,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0990.gif",
     "id": "0990",
-    "name": "elastico one arm twisting seated row",
+    "name": "elastico fila sentado girando un brazo",
     "target": "espalda"
   },
   {
@@ -559,7 +559,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0992.gif",
     "id": "0992",
-    "name": "elastico push sit-up",
+    "name": "elastico empujar abdominales",
     "target": "abdominales"
   },
   {
@@ -567,7 +567,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0993.gif",
     "id": "0993",
-    "name": "elastico reverse fly",
+    "name": "elastico mosca inversa",
     "target": "deltoide"
   },
   {
@@ -575,7 +575,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0994.gif",
     "id": "0994",
-    "name": "elastico reverse wrist curl",
+    "name": "elastico flexion de muneca invertida",
     "target": "antebrazo"
   },
   {
@@ -583,7 +583,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0996.gif",
     "id": "0996",
-    "name": "elastico seated hip internal rotation",
+    "name": "elastico rotacion interna de cadera sentado",
     "target": "gluteos"
   },
   {
@@ -591,7 +591,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1011.gif",
     "id": "1011",
-    "name": "elastico seated twist",
+    "name": "elastico giro sentado",
     "target": "abdominales"
   },
   {
@@ -607,7 +607,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1018.gif",
     "id": "1018",
-    "name": "elastico shrug",
+    "name": "elastico encogimiento de hombros",
     "target": "trapecios"
   },
   {
@@ -615,7 +615,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0998.gif",
     "id": "0998",
-    "name": "elastico side triceps extension",
+    "name": "elastico extension lateral de triceps",
     "target": "triceps"
   },
   {
@@ -623,7 +623,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0999.gif",
     "id": "0999",
-    "name": "elastico single leg calf raise",
+    "name": "elastico levantamiento de pantorrillas con una sola pierna",
     "target": "pantorrillas"
   },
   {
@@ -631,7 +631,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1000.gif",
     "id": "1000",
-    "name": "elastico single leg reverse calf raise",
+    "name": "elastico Elevacion inversa de pantorrillas con una sola pierna",
     "target": "pantorrillas"
   },
   {
@@ -639,7 +639,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1001.gif",
     "id": "1001",
-    "name": "elastico single leg split squat",
+    "name": "elastico sentadilla dividida con una sola pierna",
     "target": "cuadriceps"
   },
   {
@@ -647,7 +647,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1004.gif",
     "id": "1004",
-    "name": "elastico squat",
+    "name": "elastico ponerse en cuclillas",
     "target": "gluteos"
   },
   {
@@ -655,7 +655,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1003.gif",
     "id": "1003",
-    "name": "elastico squat row",
+    "name": "elastico fila en cuclillas",
     "target": "gluteos"
   },
   {
@@ -663,7 +663,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1005.gif",
     "id": "1005",
-    "name": "elastico standing crunch",
+    "name": "elastico crujido de pie",
     "target": "abdominales"
   },
   {
@@ -671,7 +671,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1022.gif",
     "id": "1022",
-    "name": "elastico standing rear delt row",
+    "name": "elastico fila de deltoides traseros de pie",
     "target": "deltoide"
   },
   {
@@ -679,7 +679,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1007.gif",
     "id": "1007",
-    "name": "elastico standing twisting crunch",
+    "name": "elastico crunch con torsion de pie",
     "target": "abdominales"
   },
   {
@@ -695,7 +695,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1009.gif",
     "id": "1009",
-    "name": "elastico stiff leg deadlift",
+    "name": "elastico peso muerto con piernas rigidas",
     "target": "gluteos"
   },
   {
@@ -703,7 +703,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1023.gif",
     "id": "1023",
-    "name": "elastico straight espalda stiff leg deadlift",
+    "name": "elastico espalda recta peso muerto piernas rigidas",
     "target": "gluteos"
   },
   {
@@ -711,7 +711,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1010.gif",
     "id": "1010",
-    "name": "elastico straight leg deadlift",
+    "name": "elastico peso muerto con piernas rectas",
     "target": "espalda"
   },
   {
@@ -719,7 +719,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1012.gif",
     "id": "1012",
-    "name": "elastico twisting overhead press",
+    "name": "elastico press de cabeza giratorio",
     "target": "deltoide"
   },
   {
@@ -727,7 +727,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1369.gif",
     "id": "1369",
-    "name": "elastico two legs calf raise - (elastico under both legs) v. 2",
+    "name": "elastico elevacion de pantorrillas a dos piernas (elastico debajo de ambas piernas) v.2",
     "target": "pantorrillas"
   },
   {
@@ -735,7 +735,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1013.gif",
     "id": "1013",
-    "name": "elastico underhand pulldown",
+    "name": "elastico pulldown por debajo de la mano",
     "target": "dorsales"
   },
   {
@@ -759,7 +759,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1016.gif",
     "id": "1016",
-    "name": "elastico wrist curl",
+    "name": "elastico curl de muneca",
     "target": "antebrazo"
   },
   {
@@ -767,7 +767,7 @@ import React from
     "equipment": "elastico",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1017.gif",
     "id": "1017",
-    "name": "elastico y-raise",
+    "name": "elastico y subir",
     "target": "deltoide"
   },
   {
@@ -775,7 +775,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0023.gif",
     "id": "0023",
-    "name": "barra alternate biceps curl",
+    "name": "barra curl de biceps alterno",
     "target": "biceps"
   },
   {
@@ -783,7 +783,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0024.gif",
     "id": "0024",
-    "name": "barra bench front squat",
+    "name": "barra sentadilla frontal en banco",
     "target": "cuadriceps"
   },
   {
@@ -791,7 +791,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0025.gif",
     "id": "0025",
-    "name": "barra bench press",
+    "name": "barra prensa de banco",
     "target": "pectorales"
   },
   {
@@ -799,7 +799,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0026.gif",
     "id": "0026",
-    "name": "barra bench squat",
+    "name": "barra sentadilla en banco",
     "target": "cuadriceps"
   },
   {
@@ -815,7 +815,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0027.gif",
     "id": "0027",
-    "name": "barra bent over row",
+    "name": "barra doblada sobre la fila",
     "target": "espalda"
   },
   {
@@ -831,7 +831,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0028.gif",
     "id": "0028",
-    "name": "barra clean and press",
+    "name": "barra limpiar y presionar",
     "target": "cuadriceps"
   },
   {
@@ -839,7 +839,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0029.gif",
     "id": "0029",
-    "name": "barra clean-grip front squat",
+    "name": "barra sentadilla frontal con agarre limpio",
     "target": "gluteos"
   },
   {
@@ -847,7 +847,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0030.gif",
     "id": "0030",
-    "name": "barra close-grip bench press",
+    "name": "barra press de banca con agarre cerrado",
     "target": "triceps"
   },
   {
@@ -863,7 +863,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0032.gif",
     "id": "0032",
-    "name": "barra deadlift",
+    "name": "barra peso muerto",
     "target": "gluteos"
   },
   {
@@ -871,7 +871,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0033.gif",
     "id": "0033",
-    "name": "barra decline bench press",
+    "name": "barra press de banca declinado",
     "target": "pectorales"
   },
   {
@@ -879,7 +879,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0034.gif",
     "id": "0034",
-    "name": "barra decline bent arm pullover",
+    "name": "barra pullover declinado con brazo doblado",
     "target": "dorsales"
   },
   {
@@ -887,7 +887,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0035.gif",
     "id": "0035",
-    "name": "barra decline close grip to skull press",
+    "name": "barra disminuir el agarre cerrado a la prensa del craneo",
     "target": "triceps"
   },
   {
@@ -895,7 +895,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1255.gif",
     "id": "1255",
-    "name": "barra decline pullover",
+    "name": "barra declinacion sudadera con capucha",
     "target": "pectorales"
   },
   {
@@ -903,7 +903,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0036.gif",
     "id": "0036",
-    "name": "barra decline wide-grip press",
+    "name": "barra prensa de agarre ancho declive",
     "target": "pectorales"
   },
   {
@@ -911,7 +911,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0037.gif",
     "id": "0037",
-    "name": "barra decline wide-grip pullover",
+    "name": "barra pullover declinado de agarre ancho",
     "target": "dorsales"
   },
   {
@@ -927,7 +927,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1370.gif",
     "id": "1370",
-    "name": "barra floor calf raise",
+    "name": "barra levantamiento de pantorrillas en el piso",
     "target": "pantorrillas"
   },
   {
@@ -935,7 +935,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0039.gif",
     "id": "0039",
-    "name": "barra front pecho squat",
+    "name": "barra sentadilla frontal con el pecho",
     "target": "gluteos"
   },
   {
@@ -943,7 +943,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0041.gif",
     "id": "0041",
-    "name": "barra front raise",
+    "name": "barra levantamiento frontal",
     "target": "deltoide"
   },
   {
@@ -951,7 +951,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0040.gif",
     "id": "0040",
-    "name": "barra front raise and pullover",
+    "name": "barra levantamiento frontal y jersey",
     "target": "pectorales"
   },
   {
@@ -959,7 +959,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0042.gif",
     "id": "0042",
-    "name": "barra front squat",
+    "name": "barra sentadilla frontal",
     "target": "gluteos"
   },
   {
@@ -967,7 +967,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0043.gif",
     "id": "0043",
-    "name": "barra full squat",
+    "name": "barra sentadilla completa",
     "target": "gluteos"
   },
   {
@@ -975,7 +975,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1461.gif",
     "id": "1461",
-    "name": "barra full squat (espalda pov)",
+    "name": "barra sentadilla completa (espalda pov)",
     "target": "gluteos"
   },
   {
@@ -983,7 +983,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1462.gif",
     "id": "1462",
-    "name": "barra full squat (side pov)",
+    "name": "barra sentadilla completa (punto de vista lateral)",
     "target": "gluteos"
   },
   {
@@ -991,7 +991,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1545.gif",
     "id": "1545",
-    "name": "barra full zercher squat",
+    "name": "barra sentadilla zercher completa",
     "target": "gluteos"
   },
   {
@@ -999,7 +999,7 @@ import React from
     "equipment": "barra",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1409.gif",
     "id": "1409",
-    "name": "barra glute bridge",
+    "name": "barra puente de gluteos",
     "target": "gluteos"
   },
   {
