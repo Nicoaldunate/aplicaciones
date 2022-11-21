@@ -9,6 +9,7 @@
       name="description"
       content="Web site created using create-react-app"
     />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
@@ -28,7 +29,35 @@
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+    <div class="container">
+      <div class="row mt-5">
+        <div class="col-4 my-5">
+          <h2 class="mb-3">Lista de ejercicios</h2>
+          <div class="list-group" id="ejercicios">
+            <div class="list-group-item">
+              <h5><i class="fa-solid fa-bars"></i> Ejercicios Piernas</h5>
+              <p class="mb-0">bicicleta xd ?</p>
+            </div>
+            <div class="list-group-item">
+              <h5 class="mb-0"><i class="fa-solid fa-bars"></i> Ejercicios torso</h5>
+              <p class="mb-0">flexiones ? xd</p>
+            </div>
+            <div class="list-group-item">
+              <h5><i class="fa-solid fa-bars"></i> Ejercicios brazos</h5>
+              <p class="mb-0">pesas xd?</p>
+            </div>
+          </div>   
+        </div>
+      </div>
+      
+      <div class="col-4 my-5">
+        <h2 class="mb-3">Tu rutina</h2>
+        <div class="list-group" id="rutina">
+        </div>  
+      </div>
+    </div>
+      
+    </div>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -39,5 +68,8 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script src="https://kit.fontawesome.com/c9b7379514.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
+    <script src="js/Options.js"></script>
   </body>
 </html>
