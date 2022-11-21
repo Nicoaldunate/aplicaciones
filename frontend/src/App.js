@@ -12,6 +12,7 @@ import Home from "./pages/Home";
 import ejercicios from "./pages/ejercicios";
 import miPerfil from "./pages/perfil";
 import crearRutina from "./pages/crearRutinas";
+import Pruebas from "./pages/Pruebas";
 
 
 
@@ -25,6 +26,7 @@ const App = () => {
         <Route path="/ejercicios" element={<ejercicios />} />
         <Route path="/miPerfil" element={<miPerfil />} />
         <Route path="/crearRutina/" element={<crearRutina />} />
+        <Route path="/pruebas" element={<Pruebas />} />
       </Routes>
       <Footer />
     </Box>
