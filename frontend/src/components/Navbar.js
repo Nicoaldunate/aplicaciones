@@ -59,6 +59,11 @@ const Navbar = () => {
           style={{ textDecoration: "none", color: "#3A1212" }}
         >Create tu rutina
         </Link>
+        <Link
+          to="/auth"
+          style={{ textDecoration: "none", color: "#3A1212" }}
+        >Iniciar Sesión
+        </Link>
       </Stack>
     </Stack>
   );
