@@ -7,9 +7,15 @@ import Input from './Input'
 
 const Auth = () => {
     const classes = useStyles();
-    const isSignup = false;
+    const [showPassword, setShowPassword] = React.useState(false)
+    const [isSignup, setIsSignup] = React.useState(false)
+    const handleShowPassword = () => setShowPassword((prevShowPassword) => !prevShowPassword);
     const handleSubmit = () => {}
     const handleChange = () => {}
+    const switchMode = () => {
+      setIsSignup((prevIsSignup) => !prevIsSignup);
+      handleShowPassword(false);
+    }
   return (
     <Container component="main" maxWidth="xs">
       <Paper className={classes.paper} elevation={3}>
@@ -23,7 +29,7 @@ const Auth = () => {
             isSignup && (
               <>
                 <Input name="firstName" variant="outlined" label="Nombre" handleChange={handleChange} autoFoxus half></Input>
-                <Input name="firstName" variant="outlined" label="Nombre" handleChange={handleChange} half></Input>
+                <Input name="firstName" variant="outlined" label="Apellido" handleChange={handleChange} half></Input>
                 </>
             )}
             <Input name="email" variant="outlined" label="Correo electrónico" handleChange={handleChange} type="email"></Input>
@@ -32,6 +38,13 @@ const Auth = () => {
             <Button type="submit" fullWidth variant="contained" color="primary" className={classes.submit}>
               {isSignup ? 'Registrarse' : 'Iniciar sesión'}
             </Button>
+            <Grid container justify="flex-end">
+              <Grid item>
+                <Button onClick={switchMode}>
+                  {isSignup ? '¿Ya tienes una cuenta? Inicia sesión' : '¿No tienes una cuenta? Regístrate'}
+                </Button>
+              </Grid>
+            </Grid>
           </Grid>
         </form>
       </Paper>
