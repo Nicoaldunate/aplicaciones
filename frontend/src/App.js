@@ -8,6 +8,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Auth from "./components/Auth";
+import Banner from "./components/Banner";
  
 
 //Paginas
